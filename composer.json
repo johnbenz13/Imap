@@ -23,5 +23,8 @@
 	"psr-0": {
 	    "JJG\\Imap": "lib/JJG/"
 	}
+    },
+    "branch-alias": {
+	"dev-composer": "1.0.x.dev"
     }
 }
